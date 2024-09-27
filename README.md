@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Saif-al-lslam and I like Node.js" src="images/personal_note.svg" />
+  <a><h1> My Name is Saif-al-lslam</h1>  </a>
   <br />
   <br />
 
@@ -19,9 +19,11 @@
 <br />
 <br />
 
+
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+
+
 </a>
 </p>
 
@@ -36,7 +38,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+
 </a>
 </p>
 
@@ -45,7 +47,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><src=""></a> 
 </div>
 
 
