@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://s4if.netlify.app/">
+<a href="https://sx4if.netlify.app/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
