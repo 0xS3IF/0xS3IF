@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://sx4if.netlify.app/">
+<a href="https://pwn3rx.netlify.app/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -31,7 +31,7 @@
 
 
 <td align="center">
-<a href="https://soundcloud.com/prodghesti/dont-take-your-life-for-granted-sam-sulek-x-idea-22-sped-up-edit-x-reverb?si=a62eedd5606541d8aeaf3cbd4bcbbf35&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+<a href="https://soundcloud.com/discover/sets/personalized-tracks::s-a-i-f-411318961:1853933415?si=1a23d26aac554db98e6fd962f5f74e9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
 
 <strong>Listen to cool music</strong>
 <br />
