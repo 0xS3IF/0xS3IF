@@ -10,14 +10,7 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://pwn3rx.netlify.app/">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+
 
 
 <p>
@@ -27,11 +20,7 @@
 </a>
 </p>
 
-</td>
 
-
-<td align="center">
-<a href="https://soundcloud.com/discover/sets/personalized-tracks::s-a-i-f-411318961:1853933415?si=1a23d26aac554db98e6fd962f5f74e9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
 
 <strong>Listen to cool music</strong>
 <br />
