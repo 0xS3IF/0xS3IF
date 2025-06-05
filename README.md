@@ -22,7 +22,7 @@
 
 
 
-<strong>Listen to cool music</strong>
+
 <br />
 <br />
 
